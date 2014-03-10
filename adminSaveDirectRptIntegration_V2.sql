@@ -1,6 +1,7 @@
 
 USE Advtools
 GO
+go
 
 SET ANSI_NULLS ON
 GO
